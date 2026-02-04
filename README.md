@@ -1,2 +1,28 @@
-# ELECTRIC-VEHICLE-DATA-ANALYSIS
-Electric Vehicle Data Analysis using Tableau. This project explores EV adoption trends, vehicle types, range, and charging insights through interactive dashboards and visual storytelling, enabling clear understanding of patterns, growth, and data-driven insights in the EV ecosystem.
+🚗 Electric Vehicle Data Analysis (Tableau)
+📌 Project Overview
+
+This project analyzes Electric Vehicle (EV) data to uncover trends in adoption, vehicle types, driving range, and manufacturer performance. Using Tableau, the analysis transforms raw data into interactive dashboards for clear, data-driven insights.
+
+🎯 Objectives
+
+Understand EV adoption patterns over time
+
+Compare vehicle types and manufacturers
+
+Analyze driving range and efficiency metrics
+
+Provide visual insights for decision-making
+
+🛠 Tools Used
+
+Tableau – Data visualization & dashboard creation
+
+EV Dataset – Publicly available electric vehicle data
+
+📊 Key Insights
+
+Growth trends in electric vehicle adoption
+
+Distribution of EV types across regions
+
+Range comparison among manufacturers and models
